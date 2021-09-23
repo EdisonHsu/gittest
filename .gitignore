@@ -3,6 +3,7 @@
 **/obj/
 **/logs/
 **/aspnet_client/
+**/LogsV2
 packages/
 .vs/
 .suo/
